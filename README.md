@@ -2,7 +2,7 @@
 
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
 
-![Preview](<img width="1257" alt="preview" src="https://user-images.githubusercontent.com/14003377/71170149-71323580-2252-11ea-85bf-f9e9e8c4eea3.png">)
+<img width="1257" alt="preview" src="https://user-images.githubusercontent.com/14003377/71170149-71323580-2252-11ea-85bf-f9e9e8c4eea3.png">
 
 [See the live demo](https://cranky-edison-12166d.netlify.com/)
 
